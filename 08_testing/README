@@ -11,7 +11,7 @@ as well as a correct implementation:
 
 isPrime-correct
 
-All of these take one command line argument, which is the *integer*
+All of these take one command line argument, which is the number
 to test for primality.  For example, you might run
 
 $ ./isPrime-correct  3
@@ -21,8 +21,7 @@ $ ./isPrime-correct 4
 
 Your job is to find a test case for each broken implementation which
 shows that it is not correct---that is, where its behavior differs
-from that of isPrime-correct. Note that we do not expect you to brute
-force this task. Think about what types of common errors could occur.
+from that of isPrime-correct.
 
 For each broken program, write the input which breaks the program
 into a file called "input.X" where X is 1, 2, 3, or 4 (so input.1 has
