@@ -113,10 +113,4 @@ Here are some hints:
    or being off-by-one in how many cards are required
    for a particular hand (e.g., only requiring 4
    cards meet a particular condition instead of 5).
- 
- - Note that you may be able to 'game' your way into passing all 
-   the tests locally, but if you do this you won't actually pass the
-   assignment. The only way to pass is to provide good tests.
-
- - Note additionally that you do not need to use invalid cards
-   in your tests.
+   
